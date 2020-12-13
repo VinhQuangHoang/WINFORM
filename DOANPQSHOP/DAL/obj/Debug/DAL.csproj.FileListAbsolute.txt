@@ -1,0 +1,16 @@
+D:\workspace\DOANPQSHOP\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\workspace\DOANPQSHOP\DAL\bin\Debug\DAL.dll
+D:\workspace\DOANPQSHOP\DAL\bin\Debug\DAL.pdb
+D:\workspace\DOANPQSHOP\DAL\bin\Debug\BEL.dll
+D:\workspace\DOANPQSHOP\DAL\bin\Debug\BEL.pdb
+D:\workspace\DOANPQSHOP\DAL\obj\Debug\DAL.dll
+D:\workspace\DOANPQSHOP\DAL\obj\Debug\DAL.pdb
+D:\WINFORM\DOANWINDOW_HoangVinhQuang_NguyễnHoàngMinhPhát\DOANPQSHOP\DAL\bin\Debug\DAL.dll
+D:\WINFORM\DOANWINDOW_HoangVinhQuang_NguyễnHoàngMinhPhát\DOANPQSHOP\DAL\bin\Debug\DAL.pdb
+D:\WINFORM\DOANWINDOW_HoangVinhQuang_NguyễnHoàngMinhPhát\DOANPQSHOP\DAL\bin\Debug\BEL.dll
+D:\WINFORM\DOANWINDOW_HoangVinhQuang_NguyễnHoàngMinhPhát\DOANPQSHOP\DAL\bin\Debug\BEL.pdb
+D:\WINFORM\DOANWINDOW_HoangVinhQuang_NguyễnHoàngMinhPhát\DOANPQSHOP\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\WINFORM\DOANWINDOW_HoangVinhQuang_NguyễnHoàngMinhPhát\DOANPQSHOP\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\WINFORM\DOANWINDOW_HoangVinhQuang_NguyễnHoàngMinhPhát\DOANPQSHOP\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\WINFORM\DOANWINDOW_HoangVinhQuang_NguyễnHoàngMinhPhát\DOANPQSHOP\DAL\obj\Debug\DAL.dll
+D:\WINFORM\DOANWINDOW_HoangVinhQuang_NguyễnHoàngMinhPhát\DOANPQSHOP\DAL\obj\Debug\DAL.pdb
